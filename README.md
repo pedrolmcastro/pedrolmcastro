@@ -19,6 +19,7 @@ I'm Pedro Castro, a Computer Science student interested in game development, dat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 icon" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3 icon" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql icon" width="25" height="25">
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true)
