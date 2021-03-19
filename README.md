@@ -1,6 +1,6 @@
 ## Well... Hello There! :flushed::point_right::point_left:
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@usp.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolmcastro)
 
 I'm Pedro Castro, a Computer Science student interested in game development, data structures, AI algorithms and a lot more tech related things. I'm looking foward to study front-end development and object-oriented programming now.Thats all! I think...
