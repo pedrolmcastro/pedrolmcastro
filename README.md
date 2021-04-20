@@ -23,3 +23,5 @@ I'm Pedro Castro, a Computer Science student interested in game development, dat
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true)
+
+![Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmcastro&theme=dark)
