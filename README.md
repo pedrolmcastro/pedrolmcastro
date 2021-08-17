@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolmcastro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@gmail.com)
 
-I'm Pedro Castro, a Computer Science student interested in game development, data structures, AI algorithms and a lot more tech related things. I'm looking foward to study front-end development and object-oriented programming now.Thats all! I think...
+I'm Pedro Castro, a Computer Science student at USP interested in game development, data structures, AI algorithms and a lot more tech related things. I'm looking forward to learn how to use some python libraries, frameworks and also to get some experience in planning and working on big projects. That's all! I think...
 
 ### Languages and Tools
 
