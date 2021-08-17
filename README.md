@@ -1,27 +1,22 @@
-## Well... Hello There! :flushed::point_right::point_left:
+# Well, Hello There!
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolmcastro)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@gmail.com)
 
 I'm Pedro Castro, a Computer Science student interested in game development, data structures, AI algorithms and a lot more tech related things. I'm looking foward to study front-end development and object-oriented programming now.Thats all! I think...
 
-### Languages and Tools:
+### Languages and Tools
 
-<p align ="left">
-  Working:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon" width="25" height="25">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c icon" width="25" height="25">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python icon" width="25" height="25">
+<p>
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
-<p align="left">
-  Learning:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 icon" width="25" height="25">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3 icon" width="25" height="25">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="25" height="25">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql icon" width="25" height="25">
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmcastro&theme=dark&layout=compact">
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true)
-
-![Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmcastro&theme=dark)
