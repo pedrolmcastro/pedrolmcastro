@@ -1,10 +1,10 @@
 # Well, Hello There!
 
+<!-- Contact Badges -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lucas.moliner.castro@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolmcastro)
-[![Website Badge](https://img.shields.io/badge/-website-black?style=flat-square&logo=About.me&logoColor=white)](https://pedrolmcastro.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolmcastro/?locale=en_US)
 
-I'm Pedro Castro, an undergraduate Computer Science student at USP interested in game development, data structures, AI algorithms and a lot more tech related things. I'm looking forward to learn how to use some python libraries, frameworks and also to get some experience in planning and working on big projects. That's all! I think...
+I'm Pedro Castro, an undergraduate Computer Science student at USP São Carlos interested in game development, data structures, AI algorithms and a lot more tech related things. My biggest side project is [Feather](https://github.com/pedrolmcastro/feather) an indie Game Engine yet to be completed. I'm looking forward to learn how to develop my project planning skills and doing some team work. That's all! I think...
 
 &nbsp;
 
