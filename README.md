@@ -22,6 +22,6 @@ I'm Pedro Castro, an undergraduate Computer Science student at USP São Carlos i
 
 <!-- GitHub Stats -->
 <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmcastro&theme=dark&layout=compact">
+    <img height="150" src="https://github-readme-stats-pedrolmcastro.vercel.app/api?username=pedrolmcastro&theme=dark&show_icons=true">
+    <img height="150" src="https://github-readme-stats-pedrolmcastro.vercel.app/api/top-langs/?username=pedrolmcastro&theme=dark&layout=compact">
 </p>
